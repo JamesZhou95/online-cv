@@ -4,19 +4,19 @@
 
 sidebar:
     # Site Settings
-    title: James Zhou
-    url: 'http://jameszhou.info'
+    title: Siyu Zhou
+    url: 'http://siyuzhou.me'
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Siyu Zhou 
-    tagline: Call me James!
+    name: Siyu Zhou (James)
+    tagline: 
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: james.zhou101@gmail.com
     phone: 0410951026
-    website: jameszhou.info #do not add http://
+    website: siyuzhou.me #do not add http://
     #linkedin: alandoe
     #github: sharu725
     #twitter: '@webjeda'
@@ -24,10 +24,10 @@ sidebar:
     languages:
         - language:
           idiom: Chinese (Mandarin)
-          #level: Native
+          level: Native
         - language:
           idiom: English
-          #level: Professional
+          level: Good
         
     interests:
         - interest:
@@ -40,72 +40,52 @@ sidebar:
           item: Video games
           link:
 
-        
-
-
-
-
 career-profile: 
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
-
-
+    text: 'I am a current student '
 studies: 
     - education:
       degree: Bachelor of Science in Game Development
       university: University of Technology Sydney (UTS)
       time: 2015 - 2018
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      #details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+      #elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+      #magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #pellentesque eu, pretium quis, sem."
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: 'Below are a list of projects I have created. Click on the title to see project demo video.'
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        title: Interactive UTS Logo (2015)
+        lin: "https://youtu.be/fTolOsEgAJs"
+        tagline: "A interactive UTS Logo demo made with Processing and Leap Motion for my 'Multimedia' course."
       - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        title: The Unknown (2016)
+        link: "https://youtu.be/QWG1A_Y9tG0"
+        tagline: "A 2D platfomer game made with Unity for my 'Introduction to game design' course, this is my first ever Unity game!"
       - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        title: Silence in the Library (2017)
+        link: "https://youtu.be/kGX6vFrxq7g"
+        tagline: "A 2D top-down puzzle adventure game made with Unity for my 'Game studio 1' course, details can be found here: http://www.gamesstudio.org/games/silence-library."
       - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        title: Natural Defender (2017)
+        link: "http://www.gamesstudio.org/games/natural-defenders"
+        tagline: "A 2D tower defense game made with Unity for my 'Game studio 2' course."
       - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        title: The Surpise (2018)
+        link: "https://youtu.be/M5rVVnhP16U"
+        tagline: "A short 3D animation made with Unity using the new Timeline feature for my '3D Animation' course."
+      - project:
+        title: Chinese Dulcimer VR (2018)
+        link: "https://youtu.be/Gp3jKtRj_Pw"
+        tagline: "A VR simulator game made with Unity, still under development, planned to publish on Steam."
+      - project:
+        title: Sugo Hobby (2016）
+        link: "https://sugoau.com.au"
+        tagline: "A e-commerce website made with Wordpress."
 
 skills:
     title: Skills &amp; Proficiency
@@ -117,11 +97,25 @@ skills:
           name: Python
           level: 65%
         - skill:
-          name: HTML5 & CSS & Wordpress
+          name: IOS GameKit
+          level: 50%
+        - skill:
+          name: Maya
+          level: 50%
+        - skill:
+          name: HTML5 & CSS
           level: 55%
+        - skill:
+          name: Wordpress
+          level: 70%
         - skill:
           name: Photoshop
           level: 75%
 
+extra-curricular :
+    title: Extra-Curricular Activities
+    text: '- Founder of Sugo Australia Pty Ltd: a online digital game platform, sells game cards, digital top-up as well as collectable figures.'
+    text: '- Member of Australia Mensa.'
+    text: '- Pro Gamer: Ranked Challenger in League of Legends OCE region.'
 #footer: 
     #text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
