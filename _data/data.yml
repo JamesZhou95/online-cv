@@ -9,7 +9,7 @@ sidebar:
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Siyu Zhou 
+    name: Siyu Zhou
     tagline: (James) Age 22
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
@@ -43,9 +43,9 @@ sidebar:
           item: Collectable Figures
           link:
 
-career-profile: 
-    title: About Me
-    text: 'A final year university student studying in B.Sc of Game Development at UTS who is passionate in game development and progarmming. I have established my own company (Sugo Australia Pty Ltd) in 2015 at age of 18, now it becomes one of the most reputable digital goods and services platform for Chinese gamers in Australia. However, I am still aimming to become a 'Technical-Savvy' person other than an entrepreneur. This internship would provide me with the ideal opportunity to assist your company and add value to your program with my existing skills in programming/marketing and accounting, as well as help me to gain more experience in the game industry field.'
+#career-profile: 
+    #title: About Me
+    #text: 'A final year university student studying in B.Sc of Game Development at UTS who is passionate in game development and progarmming. I have established my own company (Sugo Australia Pty Ltd) in 2015 at age of 18, now it becomes one of the most reputable digital goods and services platform for Chinese gamers in Australia. However, I am still aimming to become a 'Technical-Savvy' person other than an entrepreneur. This internship would provide me with the ideal opportunity to assist your company and add value to your program with my existing skills in programming/marketing and accounting, as well as help me to gain more experience in the game industry field.'
 
 studies: 
     - education:
@@ -116,12 +116,12 @@ skills:
           name: Photoshop
           level: 75%
 
-experiences:
-    - experience: 
-        role: Director
-        time: 2015 - Present
-        company: Sugo Australia Pty Ltd
-        details: "some description - works done here"
+#experiences:
+    #- experience: 
+       # role: Director
+       # time: 2015 - Present
+       # company: Sugo Australia Pty Ltd
+       # details: "some description - works done here"
         
 #extra-curricular :
     #title: Extra-Curricular Activities
