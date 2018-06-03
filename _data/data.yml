@@ -9,8 +9,8 @@ sidebar:
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Siyu Zhou (James)
-    tagline: 
+    name: Siyu Zhou 
+    tagline: (James) 21 - Virgo
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -31,13 +31,16 @@ sidebar:
         
     interests:
         - interest:
-          item: Board Games
-          link:
-        - interest:
           item: Coding / Programming
           link:
         - interest:
-          item: Video games
+          item: Board Games
+          link:
+        - interest:
+          item: Video Games
+          link:
+        - interest:
+          item: Collectable Figures
           link:
 
 career-profile: 
@@ -60,7 +63,7 @@ projects:
     projects:
       - project:
         title: Interactive UTS Logo (2015)
-        lin: "https://youtu.be/fTolOsEgAJs"
+        link: "https://youtu.be/fTolOsEgAJs"
         tagline: "A interactive UTS Logo demo made with Processing and Leap Motion for my 'Multimedia' course."
       - project:
         title: The Unknown (2016)
@@ -111,6 +114,13 @@ skills:
         - skill:
           name: Photoshop
           level: 75%
+
+experience:
+    - experience: 
+        role: Director
+        time: 2015 - Present
+        details: test
+        
 
 extra-curricular :
     title: Extra-Curricular Activities
