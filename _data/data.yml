@@ -61,60 +61,7 @@ projects:
     title: Projects
     intro: 'Below are a list of projects I have created. Click on the title to see project demo video.'
     
-    projects:
-      - project:
-        title: Interactive UTS Logo (2015)
-        link: "https://youtu.be/fTolOsEgAJs"
-        tagline: "A interactive UTS Logo demo made with Processing and Leap Motion for my 'Multimedia' course."
-      - project:
-        title: The Unknown (2016)
-        link: "https://youtu.be/QWG1A_Y9tG0"
-        tagline: "A 2D platfomer game made with Unity for my 'Introduction to game design' course, this is my first ever Unity game! I was awarded 1st place in UTS Games Showcase 2016"
-      - project:
-        title: Silence in the Library (2017)
-        link: "https://youtu.be/kGX6vFrxq7g"
-        tagline: "A 2D top-down puzzle adventure game made with Unity for my 'Game studio 1' course, I was awarded 1st place in UTS Games Showcase 2017."
-      - project:
-        title: Natural Defender (2017)
-        link: "http://www.gamesstudio.org/games/natural-defenders"
-        tagline: "A 2D tower defense game made with Unity for my 'Game studio 2' course."
-      - project:
-        title: The Surpise (2018)
-        link: "https://youtu.be/M5rVVnhP16U"
-        tagline: "A short 3D animation made with Unity using the new Timeline feature for my '3D Animation' course."
-      - project:
-        title: Chinese Dulcimer VR (2018)
-        link: "https://youtu.be/Gp3jKtRj_Pw"
-        tagline: "A VR simulator game made with Unity, still under development, planned to publish on Steam."
-      - project:
-        title: Sugo Hobby (2016）
-        link: "https://sugoau.com.au"
-        tagline: "An e-commerce website made with Wordpress."
 
-skills:
-    title: Skills &amp; Proficiency
-    skills:
-        - skill:
-          name: Unity & C#
-          level: 75%
-        - skill:
-          name: Python
-          level: 65%
-        - skill:
-          name: IOS GameKit
-          level: 50%
-        - skill:
-          name: Maya
-          level: 50%
-        - skill:
-          name: HTML5 & CSS
-          level: 55%
-        - skill:
-          name: Wordpress
-          level: 70%
-        - skill:
-          name: Photoshop
-          level: 75%
 
 #experiences:
     #- experience: 
