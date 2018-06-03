@@ -10,7 +10,7 @@ sidebar:
     
     # Profile information
     name: Siyu Zhou 
-    tagline: (James) 21 - Virgo
+    tagline: (James) Age: 22
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -44,8 +44,8 @@ sidebar:
           link:
 
 career-profile: 
-    title: Career Profile
-    text: 'I am a current student '
+    title: Career Objectives
+    text: 'Established my own company (Sugo Australia Pty Ltd) in 2015 at age of 18, now it becomes one of the most reputable digital goods and services platform for Chinese gamers in Australia. This internship would provide me with the ideal opportunity to assist your company and add value to your program with my existing skills in programming/marketing and accounting, as well as help me gain more experience in the game industry field.'
 studies: 
     - education:
       degree: Bachelor of Science in Game Development
@@ -68,11 +68,11 @@ projects:
       - project:
         title: The Unknown (2016)
         link: "https://youtu.be/QWG1A_Y9tG0"
-        tagline: "A 2D platfomer game made with Unity for my 'Introduction to game design' course, this is my first ever Unity game!"
+        tagline: "A 2D platfomer game made with Unity for my 'Introduction to game design' course, this is my first ever Unity game! I was awarded 1st place in UTS Games Showcase 2016"
       - project:
         title: Silence in the Library (2017)
         link: "https://youtu.be/kGX6vFrxq7g"
-        tagline: "A 2D top-down puzzle adventure game made with Unity for my 'Game studio 1' course, details can be found here: http://www.gamesstudio.org/games/silence-library."
+        tagline: "A 2D top-down puzzle adventure game made with Unity for my 'Game studio 1' course, I was awarded 1st place in UTS Games Showcase 2017."
       - project:
         title: Natural Defender (2017)
         link: "http://www.gamesstudio.org/games/natural-defenders"
@@ -88,7 +88,7 @@ projects:
       - project:
         title: Sugo Hobby (2016）
         link: "https://sugoau.com.au"
-        tagline: "A e-commerce website made with Wordpress."
+        tagline: "An e-commerce website made with Wordpress."
 
 skills:
     title: Skills &amp; Proficiency
@@ -115,16 +115,15 @@ skills:
           name: Photoshop
           level: 75%
 
-experience:
+experiences:
     - experience: 
-        role: Director
-        time: 2015 - Present
-        details: test
+        role: "Director"
+        time: "2015 - Present"
+        company: "Sugo Australia Pty Ltd"
+        details: "some description - works done here"
         
-
 extra-curricular :
     title: Extra-Curricular Activities
-    text: '- Founder of Sugo Australia Pty Ltd: a online digital game platform, sells game cards, digital top-up as well as collectable figures.'
     text: '- Member of Australia Mensa.'
     text: '- Pro Gamer: Ranked Challenger in League of Legends OCE region.'
 #footer: 
