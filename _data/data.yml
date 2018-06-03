@@ -122,9 +122,9 @@ experiences:
         company: "Sugo Australia Pty Ltd"
         details: "some description - works done here"
         
-extra-curricular :
-    title: Extra-Curricular Activities
-    text: '- Member of Australia Mensa.'
-    text: '- Pro Gamer: Ranked Challenger in League of Legends OCE region.'
+#extra-curricular :
+    #title: Extra-Curricular Activities
+    #text: '- Member of Australia Mensa.'
+    #text: '- Pro Gamer: Ranked Challenger in League of Legends OCE region.'
 #footer: 
     #text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
