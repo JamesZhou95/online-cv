@@ -115,12 +115,15 @@ skills:
           name: Photoshop
           level: 75% 
 
+career-profile: 
+    title: Extra-Curricular
+    text: '<ul><li>Member of Australia Mensa.</li><li>Cryptocurreny Investor</li></ul>'
 
-experiences:
-    - experience: 
-        role: Director
-        time: 2015 - Present
-        company: Sugo Australia Pty Ltd
+#experiences:
+    #- experience: 
+        #role: Director
+        #time: 2015 - Present
+        #company: Sugo Australia Pty Ltd
         #details: 'some description - works done here'
         
 #extra-curricular :
