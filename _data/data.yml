@@ -56,6 +56,9 @@ studies:
       #elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       #magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
       #pellentesque eu, pretium quis, sem."
+    - education:
+      degree: Member of Australia Mensa
+      time: Joined in 2018
 
 projects:
     title: Projects
@@ -114,10 +117,6 @@ skills:
         - skill:
           name: Photoshop
           level: 75% 
-
-career-profile: 
-    title: Extra-Curricular
-    text: '<ul><li>Member of Australia Mensa.</li><li>Cryptocurreny Investor</li></ul>'
 
 #experiences:
     #- experience: 
