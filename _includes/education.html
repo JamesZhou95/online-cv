@@ -9,10 +9,13 @@
             
               <div class="upper-row">
                 <h3 class="degree">{{ education.degree }}</h3>
+                 {% if education.time %}
                 <div class="time">{{ education.time }}</div>
+                 {% endif %}
               </div><!--//upper-row-->
-              
+               {% if education.university %}
               <div class="university">{{ education.university }}</div>
+                {% endif %}
             </div><!--//meta-->
             
             {% if education.details %}
