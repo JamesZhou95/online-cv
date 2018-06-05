@@ -45,7 +45,7 @@ sidebar:
 
 career-profile: 
     title: About Me
-    text: 'A final year university student studying in B.Sc of Game Development at UTS who is passionate in game development and progarmming.<br><br>I have established my own company (Sugo Australia Pty Ltd) in 2015 at age of 18, now it becomes one of the most reputable digital goods and services platform for Chinese gamers in Australia. However, I am aiming to become a "Technical-Savvy" person other than an entrepreneur.<br><br> This internship would provide me with the ideal opportunity to assist your company and add value to your program with my existing skills in programming/marketing and accounting, as well as help me to gain more experience in the game industry field.'
+    text: 'A final year university student studying in B.Sc of Game Development at UTS who is passionate in game development and progarmming.<br><br>I have established my own company (Sugo Australia Pty Ltd) in 2015 at age of 18 and it becomes one of the most reputable digital goods and services platform in Australia for Chinese gamers.<br><br>However, I wanted to become more tech savvy in game development. This internship would provide me with the ideal opportunity to assist your company. as well as help me to gain more experience and demonstrate my ability and talents in the game industry field.'
 
 studies: 
     - education:
@@ -59,28 +59,28 @@ studies:
 
 projects:
     title: Projects
-    intro: 'Below are a list of projects I have created. Click on the title to see project demo video.'
+    intro: 'Below are a list of projects I have created. Click on the title to see the project demo video.'
     projects:
       - project:
         title: Interactive UTS Logo (2015)
         link: "https://youtu.be/fTolOsEgAJs"
-        tagline: "A interactive UTS Logo demo made with Processing and Leap Motion for my 'Multimedia' course."
+        tagline: "A interactive UTS Logo demo made with Processing and Leap Motion for my 'Multimedia' subject."
       - project:
         title: The Unknown (2016)
         link: "https://youtu.be/QWG1A_Y9tG0"
-        tagline: "A 2D platfomer game made with Unity for my 'Introduction to game design' course, this is my first ever Unity game! I was awarded 1st place in UTS Games Showcase 2016"
+        tagline: "A 2D platfomer game made with Unity for my 'Introduction to game design' subject, this is my first ever Unity game! I was awarded 1st place in UTS Games Showcase 2016"
       - project:
         title: Silence in the Library (2017)
         link: "https://youtu.be/kGX6vFrxq7g"
-        tagline: "A 2D top-down puzzle adventure game made with Unity for my 'Game studio 1' course, I was awarded 1st place in UTS Games Showcase 2017."
+        tagline: "A 2D top-down puzzle adventure game made with Unity for my 'Game studio 1' subject, I was awarded 1st place in UTS Games Showcase 2017."
       - project:
         title: Natural Defender (2017)
         link: "http://www.gamesstudio.org/games/natural-defenders"
-        tagline: "A 2D tower defense game made with Unity for my 'Game studio 2' course."
+        tagline: "A 2D tower defense game made with Unity for my 'Game studio 2' subject."
       - project:
         title: The Surpise (2018)
         link: "https://youtu.be/M5rVVnhP16U"
-        tagline: "A short 3D animation made with Unity using the new Timeline feature for my '3D Animation' course."
+        tagline: "A short 3D animation made with Unity using the new Timeline feature for my '3D Animation' subject."
       - project:
         title: Chinese Dulcimer VR (2018)
         link: "https://youtu.be/Gp3jKtRj_Pw"
@@ -116,11 +116,11 @@ skills:
           level: 75% 
 
 
-#experiences:
-   # - experience: 
-        #role: Director
-        #time: 2015 - Present
-        #company: Sugo Australia Pty Ltd
+experiences:
+    - experience: 
+        role: Director
+        time: 2015 - Present
+        company: Sugo Australia Pty Ltd
         #details: 'some description - works done here'
         
 #extra-curricular :
