@@ -24,8 +24,10 @@ sidebar:
     languages:
         - language:
           idiom: Chinese (Mandarin)
+          level: Native
         - language:
           idiom: English
+          level: Good
         
     interests:
         - interest:
@@ -43,8 +45,7 @@ sidebar:
 
 career-profile: 
     title: About Me
-    text: 'A highly motivated and hardworking individual, who has recently graduate with a Bacholor of science in Game Development degree from the University of Technology Sydney. His gaming development projects through university shows his passion and talents for this industry. Seeking for opportunity to gain more experience in game development industry and to further develop my skills and knowledge in a practical and fast-paced environment.'
-    
+    text: 'A highly motivated and hardworking individual, who has recently graduate with a Bacholor of Science in Game Development degree from the University of Technology Sydney. His gaming development projects through university shows his passion and talents for this industry. Seeking for opportunity to gain more experience in game development industry and to further develop my skills and knowledge in a practical and fast-paced environment.'   
 '
 
 studies: 
