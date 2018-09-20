@@ -10,7 +10,7 @@ sidebar:
     
     # Profile information
     name: Siyu Zhou
-    tagline: (James) Age 22
+    tagline: (James)
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -24,10 +24,8 @@ sidebar:
     languages:
         - language:
           idiom: Chinese (Mandarin)
-          level: Native
         - language:
           idiom: English
-          level: Good
         
     interests:
         - interest:
@@ -45,7 +43,8 @@ sidebar:
 
 career-profile: 
     title: About Me
-    text: 'Siyu Zhou is final year university student at University Technology Sydney. From 2015-2018, Zhou studied a Bachelor of Science in Game Development. His gaming development projects through university shows his passion and talents for this industry. Zhou is also known for his business, "Sugo Australia Pty Ltd". Being a successful entrepreneur, his established company tends to be one of the most reputable digital goods and services platform in Australia for Chinese gamers. His passion still lies on game development, and seeks for opportunity to gain more experience in game development industry.
+    text: 'A highly motivated and hardworking individual, who has recently graduate with a Bacholor of science in Game Development degree from the University of Technology Sydney. His gaming development projects through university shows his passion and talents for this industry. Seeking for opportunity to gain more experience in game development industry and to further develop my skills and knowledge in a practical and fast-paced environment.'
+    
 '
 
 studies: 
@@ -63,16 +62,16 @@ studies:
 
 projects:
     title: Projects
-    intro: 'Below are a list of projects I have created. Click on the title to see the project demo video.'
+    intro: 'Below are a list of projects I have created myself. Click on the title to see the project video.'
     projects:
       - project:
         title: Interactive UTS Logo (2015)
         link: "https://youtu.be/fTolOsEgAJs"
         tagline: "A interactive UTS Logo demo made with Processing and Leap Motion for my 'Multimedia' subject."
       - project:
-        title: The Unknown (2016)
+        title: The Unknown (2016) - <small>my first Unity game</small>
         link: "https://youtu.be/QWG1A_Y9tG0"
-        tagline: "A 2D platfomer game made with Unity for my 'Introduction to game design' subject, this is my first ever Unity game! I was awarded 1st place in UTS Games Showcase 2016"
+        tagline: "A 2D platfomer game made with Unity for my 'Introduction to game design' subject, I was awarded 1st place in UTS Games Showcase 2016."
       - project:
         title: Silence in the Library (2017)
         link: "https://youtu.be/kGX6vFrxq7g"
@@ -86,20 +85,24 @@ projects:
         link: "https://youtu.be/M5rVVnhP16U"
         tagline: "A short 3D animation made with Unity using the new Timeline feature for my '3D Animation' subject."
       - project:
-        title: Chinese Dulcimer VR (2018)
+        title: Chinese Dulcimer VR (2018) - <small>my first VR game</small>
         link: "https://youtu.be/Gp3jKtRj_Pw"
-        tagline: "A VR simulator game made with Unity, still under development, planned to publish on Steam."
+        tagline: "A VR musical instrument simulator game made with Unity."
       - project:
-        title: Sugo Hobby (2016）
+        title: Sugo Game  (2016）
         link: "https://sugoau.com.au"
-        tagline: "An e-commerce website made with Wordpress."
+        tagline: "An online Chinese game top-up plaftorm made with Wordpress"
+      - project:
+        title: Sugo Toys  (2018）
+        link: "https://sugotoys.com.au"
+        tagline: "An online collectable toy store in Australia made with Wordpress"
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
           name: Unity & C#
-          level: 75%
+          level: 70%
         - skill:
           name: Python
           level: 65%
@@ -114,7 +117,7 @@ skills:
           level: 55%
         - skill:
           name: Wordpress
-          level: 70%
+          level: 75%
         - skill:
           name: Photoshop
           level: 75% 
@@ -122,13 +125,13 @@ skills:
 #experiences:
     #- experience: 
         #role: Director
-        #time: 2015 - Present
+        #time: 2015 - 2018
         #company: Sugo Australia Pty Ltd
-        #details: 'some description - works done here'
+        #details: 'Running an online game top-up business in Australia.'
         
 #extra-curricular :
     #title: Extra-Curricular Activities
     #text: '- Member of Australia Mensa.'
-    #text: '- Pro Gamer: Ranked Challenger in League of Legends OCE region.'
+    #text: ''
 #footer: 
     #text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
