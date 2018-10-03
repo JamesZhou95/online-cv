@@ -15,7 +15,7 @@ sidebar:
     
     # Sidebar links
     email: james.zhou101@gmail.com
-    phone: 0410951026
+    # phone: 0410951026
     website: siyuzhou.me #do not add http://
     #linkedin: alandoe
     #github: sharu725
@@ -88,14 +88,14 @@ projects:
         title: Chinese Dulcimer VR (2018) - <small>my first VR game</small>
         link: "https://youtu.be/Gp3jKtRj_Pw"
         tagline: "A VR musical instrument simulator game made with Unity."
-      - project:
-        title: Sugo Game  (2016）
-        link: "https://sugoau.com.au"
-        tagline: "An online Chinese game top-up plaftorm made with Wordpress"
-      - project:
-        title: Sugo Toys  (2018）
-        link: "https://sugotoys.com.au"
-        tagline: "An online collectable toy store made with Wordpress"
+      #- project:
+        #title: Sugo Game  (2016）
+        #link: "https://sugoau.com.au"
+        #tagline: "An online Chinese game top-up plaftorm made with Wordpress"
+      #- project:
+        #title: Sugo Toys  (2018）
+        #link: "https://sugotoys.com.au"
+        #tagline: "An online collectable toy store made with Wordpress"
 
 skills:
     title: Skills &amp; Proficiency
